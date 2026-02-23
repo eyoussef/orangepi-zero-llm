@@ -1,0 +1,5 @@
+# Put your .gguf model files here
+# Example: TinyLlama-1.1B-Chat-v1.0.Q2_K.gguf
+#
+# Download TinyLlama Q2_K (~411MB, works on 512MB RAM):
+# wget https://huggingface.co/MaziyarPanahi/TinyLlama-1.1B-Chat-v1.0-GGUF/resolve/main/TinyLlama-1.1B-Chat-v1.0.Q2_K.gguf
